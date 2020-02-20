@@ -1,0 +1,18 @@
+{
+  "name": "npm",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2",
+    "how-to-npm": "^2.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js",
+    "start": "how-to-npm"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
